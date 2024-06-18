@@ -36,7 +36,7 @@
 
 <details><summary>펼치기</summary>
 
-- CropSystem.cs
+- CropSystem.cs    
 ![auto](https://github.com/SnowScapes/ClickerFarm/assets/39547945/7e0fb614-e975-46af-9fbf-2988af14a2be)    
 
 </details>
@@ -45,7 +45,7 @@
 
 <details><summary>펼치기</summary>
 
-- UIManager.cs
+- UIManager.cs    
 ![image](https://github.com/SnowScapes/ClickerFarm/assets/39547945/a40f8d17-8098-4037-acb7-9e39df7a96ac)
 ![image](https://github.com/SnowScapes/ClickerFarm/assets/39547945/c8e72326-b5a2-4cc5-85dc-92e4c4f0a7dc)    
 
